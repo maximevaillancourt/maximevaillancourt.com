@@ -6,7 +6,7 @@ permalink: /blog
 
 <div>
   <div class="post-heading">
-    <h1 class="post-title">All blog posts 📝</h1>
+    <h1 class="post-title">All blog posts</h1>
   </div>
   {% for post in site.posts limit: post_limit %}
   <div class="list-entry">

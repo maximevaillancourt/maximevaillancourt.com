@@ -6,7 +6,7 @@ permalink: /projects
 
 <div>
   <div class="post-heading">
-    <h1 class="post-title">All projects 👨‍💻</h1>
+    <h1 class="post-title">All projects</h1>
   </div>
 
   {% for project in site.data.projects %}
