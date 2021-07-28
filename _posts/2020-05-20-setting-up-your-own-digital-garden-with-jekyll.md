@@ -110,7 +110,9 @@ Now the cool thing is this: whenever you push an update to your GitHub repositor
 
 ### 5. Start tending to your digital garden
 
-At this point, you can start updating the files on your machine (in the `my-digital-garden` folder) to change your digital garden to your liking: update the copy, add some notes, tweak the layout, customize the colors, etc. Once you have something you're happy with, push your changes to your GitHub repository with the following commands:
+At this point, you can start updating the files on your machine (in the `my-digital-garden` folder) to change your digital garden to your liking: update the copy, add some notes, tweak the layout, customize the colors, etc.
+
+Once you have something you're happy with, push your changes to your GitHub repository with the following commands:
 
 ```
 $ git add --all

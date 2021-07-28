@@ -3,9 +3,7 @@
 {% include head.html %}
 
 <body>
-  {% if page.id != "home" and page.id != "not-found" %}
   <nav>{% include bio.html %}</nav>
-  {% endif %}
   <div class="wrapper">
     <main>{{ content }}</main>
     {% include footer.html %}
