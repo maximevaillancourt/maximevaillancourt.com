@@ -10,9 +10,9 @@ permalink: /projects
   </div>
 
   {% for project in site.data.projects %}
-  <div>{{ project.date | date: "%B %Y" }}</div>
+  
   <div class="list-entry">
-    <div><a target="_blank" rel="noopener" href="{{ project.url }}">{{ project.name }}</a></div>
+    <div><a target="_blank" rel="noopener" href="{{ project.url }}">{{ project.name }}</a> <span class="faded">({{ project.date | date: "%Y-%m-%d" }})</span></div>
     <div>{{ project.description_html }}</div>
   </div>
   {% endfor %}
