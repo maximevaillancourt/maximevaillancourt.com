@@ -13,8 +13,8 @@ body {
   line-height: 1.7;
   padding: 1em 2em;
   overflow-x: hidden;
-  max-width: 43em;
-  margin: 0;
+  max-width: 42em;
+  margin: 0 auto;
   font-size: $font-size-mobile;
   @media (min-width: 820px) {
     padding: 1.5em 4em;
