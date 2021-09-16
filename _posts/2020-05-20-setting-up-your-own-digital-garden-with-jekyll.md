@@ -41,7 +41,7 @@ Once everything is set up, let's start creating your own digital garden.
 
 ### 1. Create a fork of the template repository
 
-To simplify things, I provide the template showed in the image above to get started. You can always tweak this template to your taste later.
+To simplify things, I provide the template shown in the image above to get started. You can always tweak this template to your taste later.
 
 Visit the GitHub page for my template repository ([`maximevaillancourt/digital-garden-jekyll-template`](https://github.com/maximevaillancourt/digital-garden-jekyll-template)), and fork it to your account using the Fork button:
 
