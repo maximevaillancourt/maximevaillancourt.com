@@ -324,3 +324,9 @@
   timestamp: '2021-09-19T19:17:15+00:00'
   body: "Hi Maxime,\r\nThank you for the wonderful template! The guide is very clear
     and easy to follow. It enables me to set up my own garden in a breeze!"
+- netlify_submission_id: 615355e981e50f113fa49c8f
+  author: Simone S
+  timestamp: '2021-09-28T17:50:33+00:00'
+  body: 'Just read your post about de-Googling your data. I did the same over the
+    last few years, and I can totally endorse Bitwarden re: authenticator. I use it
+    as a password manager and also for 2FA, never looked back.'
