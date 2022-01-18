@@ -123,9 +123,3 @@ $ git push origin master
 If that command succeeds and the rest of the tutorial was done correctly, in a couple of minutes, you should see your changes live on your Netlify website. 🚀
 
 And we're done! You now have your own digital garden. Take care of your mind and the rest will follow. 🍃
-
----
-
-If you're curious, take a look at <a class="internal-link" href="https://maximevaillancourt.com/notes">my own (tiny) digital garden right here</a>.
-
-Similarly, if you made it this far, you'll likely want to join the ["Digital Gardeners" Telegram group](https://nesslabs.com/digital-gardeners): we're a likeminded bunch of folks nerding out on this digital garden thing. Join us! 🧠
