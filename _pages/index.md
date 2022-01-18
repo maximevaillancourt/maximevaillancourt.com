@@ -9,8 +9,7 @@ permalink: /
 <div>
   <div>
     <p>
-      Hello! I'm Max. I help accelerate online storefronts as a development manager at <a target="_blank" rel="noopener" href="https://www.shopify.ca/">Shopify</a>.
-      Areas of interest include active transportation, minimalism, privacy, and sustainability.
+      Hello! I'm Maxime. I enjoy solving problems, riding bicycles, and playing music. Welcome to my corner of the Web.
     </p>
 
     <p>
