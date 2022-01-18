@@ -14,11 +14,7 @@ permalink: /
     </p>
 
     <p>
-      I'm intermittently active on <a title='Mastodon' rel="me" target="_blank" rel="noopener" href="https://mstdn.io/@vaillancourtmax/">Mastodon</a> and <a title='Twitter' rel="me" target="_blank" rel="noopener" href="https://twitter.com/vaillancourtmax">Twitter</a>.
-    </p>
-
-    <p>
-While you're here, consider taking a few minutes to <a href="/guestbook" class="internal-link">sign the guestbook</a>.
+      Consider taking a few minutes to <a href="/guestbook" class="internal-link">sign the guestbook</a> while you're here. You may also reach me directly on <a href="https://mstdn.io/@vaillancourtmax" target="_blank">Mastodon</a> :)
     </p>
   </div>
 

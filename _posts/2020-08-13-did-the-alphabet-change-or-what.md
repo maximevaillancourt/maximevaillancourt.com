@@ -260,5 +260,3 @@ There it is: because Ruby 2.6 uses `TOUPPER` and Ruby 2.7 uses `TOLOWER` before 
 To summarize, the root cause of the issue is that `String#casecmp` was updated in Ruby 2.7 to **lowercase** the two inputs before comparing them, while Ruby 2.6 used to **uppercase** the two inputs before comparing them. [This is the commit where this change was introduced.](https://github.com/ruby/ruby/commit/082424ef58116db9663a754157d6c441d60fd101#diff-7a2f2c7dfe0bf61d38272aeaf68ac768)
 
 Fun debugging session. :)
-
-Found a typo? Think I could clarify something? Reach out on Twitter ([@vaillancourtmax](https://twitter.com/vaillancourtmax)).

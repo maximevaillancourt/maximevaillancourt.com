@@ -106,5 +106,3 @@ All you need to do now is to generate your static site and upload it somewhere o
 The next time someone sends a form submission on your site, you'll get an email from Netlify, after which you can run the Ruby script to moderate the comment, and if it's acceptable, commit the changes, then push them to Netlify to update your site. In the event that you don't want to show a specific form submission on your site, log in to your Netlify admin panel, go to your site's Forms section, open the form, then delete the entry.
 
 A potential next step could be to extend this to every single blog post to effectively create a commenting system (rather than a single guestbook page)... but that's for another time.
-
-_Comments? Suggestions? Reach out on Twitter [@vaillancourtmax](https://twitter.com/vaillancourtmax)._
