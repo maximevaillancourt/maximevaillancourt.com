@@ -59,7 +59,7 @@ It's now harvest season 2020, so I connected a grain dryer to the Internet yeste
 
 Here's how the network topology looks like:
 
-<div class="highlighter-rouge" style="width: min-content;margin: 0 auto;"><div class="highlight"><pre class="highlight" style="width: auto;"><code>                   (via public static IP)
+<div class="highlighter-rouge" style="width: min-content;margin: 0 auto;"><div class="highlight"><pre class="highlight" style="width: auto; white-space: pre;"><code>                   (via public static IP)
                         +----------+
          +--------------> Internet <--------------+
          |              +----------+              |
