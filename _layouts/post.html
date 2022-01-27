@@ -12,31 +12,4 @@ layout: default
     </div>
     {{ content }}
   </article>
-
-  <br>
-
-  If you enjoyed this post, consider taking a few minutes to <a href="/guestbook" class="internal-link">sign the guestbook</a>.  📖
-
-  <h3>Recent posts</h3>
-
-  <div>
-    {% for post in site.posts limit: 3 %}
-    {% if post.url == page.url %}
-    {% continue %}
-    {% endif %}
-    <div class="list-entry">
-      <div><a class="internal-link" href="{{ post.url }}">{{ post.title }}</a> <span
-          class="faded">({{ post.date | date: "%Y-%m-%d" }})</span></div>
-      <div>{{ post.excerpt }}</div>
-    </div>
-    {% endfor %}
-  </div>
-
-  <footer>
-    <div>Blog feed available as <a target="_blank" class="internal-link" href="/rss.xml">RSS</a> or <a target="_blank"
-        class="internal-link" href="/feed.json">JSON</a> feeds.
-      You may reach out via
-      <a title='Mastodon' target="_blank" rel="noreferrer" href="https://mstdn.io/@vaillancourtmax/">Mastodon</a>.
-    </div>
-  </footer>
 </div>

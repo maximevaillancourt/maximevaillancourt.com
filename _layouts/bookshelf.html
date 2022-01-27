@@ -3,12 +3,10 @@ layout: default
 ---
 
 <article class="post">
-  <div class="post-heading">
-    <h1 class="post-title">{{ page.title }} ({{ page.author }})</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" class="faded">
-      Finished reading on {{ page.finished_reading_on | date: "%B %-d, %Y" }}
-    </time>
-  </div>
+  <h1 class="post-title">{{ page.title }} ({{ page.author }})</h1>
+  <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" class="faded">
+    Finished reading on {{ page.finished_reading_on | date: "%B %-d, %Y" }}
+  </time>
 
   <content>
     {{ content }}

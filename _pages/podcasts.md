@@ -5,9 +5,7 @@ permalink: /podcasts
 ---
 
 <div>
-  <div class="post-heading">
-    <h1 class="post-title">All podcast appearances 👨‍💻</h1>
-  </div>
+  <h1 class="post-title">All podcast appearances 👨‍💻</h1>
 
   {% for podcast in site.data.podcasts %}
   <div class="list-entry">

@@ -41,5 +41,3 @@ I sometimes get stuck and paralyzed by overthinking and overanalyzing a system. 
 In my experience, getting less sleep leads to a natural ability to short the above circuit and get moving immediately, while also reducing the time to reaching a state of flow.
 
 If I dig in a little more, it seems to have to do with a desire to get it over with whatever task is at hand, and a drive to move on to the next thing quickly. This, combined with a willingness to be more ~~scrappy~~ resourceful as time passes, leads to a practical sense of acceleration that I haven't been able to replicate in any other way.
-
-If you've experienced something similar, I'd love to hear about it more. At any rate, I'm happy to discuss this further over on Twitter ([@vaillancourtmax](https://twitter.com/vaillancourtmax)) or [Hacker News](https://news.ycombinator.com/item?id=21121359).
