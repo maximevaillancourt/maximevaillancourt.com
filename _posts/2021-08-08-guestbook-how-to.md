@@ -20,7 +20,7 @@ Lucky for us, we already solved this problem in the early 1990s: HTTP has a POST
 
 So what do we do?
 
-Well, this website was already off to a good start: it's powered by Netlify, which offers an excellent [FormsI](https://www.netlify.com/products/forms/) product, which provides an API. Once it's set up, Netlify intercepts POST calls sent to a web page and runs logic in the background to store the contents of the form submission for later use via their API. In practice, this means that when someone goes on the guestbook and submits their comment using the form at the bottom of the page, Netlify intercepts the POST call and creates a database entry somewhere on _their_ backend, which I can then query through their Forms API.
+Well, this website was already off to a good start: it's powered by Netlify, which offers an excellent [Forms](https://www.netlify.com/products/forms/) product, which provides an API. Once it's set up, Netlify intercepts POST calls sent to a web page and runs logic in the background to store the contents of the form submission for later use via their API. In practice, this means that when someone goes on the guestbook and submits their comment using the form at the bottom of the page, Netlify intercepts the POST call and creates a database entry somewhere on _their_ backend, which I can then query through their Forms API.
 
 Note that when someone submits a comment on the guestbook, it doesn't automatically show up on the guestbook page: this is because I manually moderate comments by pulling them from the Netlify Forms API myself and then re-generate the website.
 

@@ -73,7 +73,7 @@ After these changes, screen time data for this week shows that on average I unlo
     </span>
   </div>
   <div style="text-align: center;">
-    <img alt="App draser on my Android smartphone, showing scrollable list of apps names in white text over black background" src="/assets/app-drawer.jpg"/>
+    <img alt="App drawer on my Android smartphone, showing scrollable list of apps names in white text over black background" src="/assets/app-drawer.jpg"/>
     <span class="caption">
       App drawer
     </span>
