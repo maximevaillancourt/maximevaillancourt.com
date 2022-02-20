@@ -14,7 +14,9 @@ pre.highlight  {
   border-radius: 5px;
   font-size: 0.8em;
   margin: 0 -1em;
+  white-space: break-spaces;
 }
+
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
